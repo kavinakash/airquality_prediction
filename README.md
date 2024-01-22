@@ -9,3 +9,5 @@ https://archive.ics.uci.edu/dataset/360/air+quality
 
 ![image](https://github.com/kavinakash/airquality_prediction/assets/85482165/1e9c701e-5f55-46a0-abaf-3a48aa69c719)
 
+# ARCHITECTURE DIAGRAM
+![image](https://github.com/kavinakash/airquality_prediction/assets/85482165/9acde10e-d231-4c36-978f-ee278bcf8042)
